@@ -1,6 +1,6 @@
 # Dashboard Project in Power BI
 
-This project presents a **Power BI** dashboard designed to visualize and analyze the sales performance of a coffee shop throughout 2024. The dashboard provides key insights into sales trends, product performance, and daily operational patterns.
+This **Power BI** dashboard was designed to visualize and analyze the sales performance of a coffee shop throughout 2024. The dashboard provides key insights into sales trends, product performance, and daily operational patterns.
 
 <img src="visuals/dashboard.gif" width="650" alt="Dashboard Interactivity GIF">
 
